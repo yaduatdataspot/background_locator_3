@@ -220,6 +220,7 @@ class _MyAppState extends State<MyApp> {
             interval: 5,
             distanceFilter: 0,
             client: LocationClient.google,
+
             // androidNotificationSettings: AndroidNotificationSettings(
             //     notificationChannelName: 'Location tracking',
             //     notificationTitle: 'Start Location Tracking',
